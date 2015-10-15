@@ -41,3 +41,10 @@ $RECYCLE.BIN/
 Network Trash Folder
 Temporary Items
 .apdisk
+.idea/misc.xml
+.idea/.name
+*.xml
+home_data.csv
+slr01.csv
+__pycache__/linReg.cpython-34.pyc
+*.pyc
